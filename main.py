@@ -1,3 +1,1 @@
-name = 'World'
-
-print('Hello', name + '!')
+print('Hello!')
